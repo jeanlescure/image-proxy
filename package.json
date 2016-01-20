@@ -1,0 +1,16 @@
+{
+  "name": "aligned-proxy",
+  "version": "1.0.0",
+  "description": "Image proxy for SSL compliance",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jean M. Lescure",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "request": "^2.67.0"
+  }
+}
